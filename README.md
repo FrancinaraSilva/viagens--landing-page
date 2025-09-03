@@ -13,7 +13,7 @@ Este é um projeto de uma página de destino (landing page) de viagens, desenvol
 
 * **HTML5:** Utilizado para a estrutura e semântica da página.
 * **CSS3:** Utilizado para a estilização, layout e efeitos visuais.
-* 
+  
 ## Como Acessar o Projeto
 
 Para ver o projeto funcionando, basta abrir o arquivo `index.html` em qualquer navegador web.
